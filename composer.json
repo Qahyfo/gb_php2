@@ -1,0 +1,15 @@
+{
+    "name": "asus/engine1",
+    "autoload": {
+        "psr-4": {
+            "GeekBrains\\LevelTwo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Qahyfo",
+            "email": "qahyfo@gmail.com"
+        }
+    ],
+    "require": {}
+}
